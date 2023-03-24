@@ -18,7 +18,6 @@ const ROLES = {
 }
 
 function App() {
-
   return (
     <Routes>
       <Route path="/" element={<Layout />}>
